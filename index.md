@@ -1,7 +1,4 @@
 <html>
-<head>
-<title>OK</title>
-</head>
 <body>
 <p>OK</p>
 </body>
